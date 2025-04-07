@@ -1,0 +1,45 @@
+
+#Your project
+*data/
+*models/
+*output/
+*results/
+
+#Model saving
+*pth
+
+#Python compiled files
+__pycache__/
+src/__pycache__/
+.Python
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+#vs code files
+.vscode/
+.vs
+
+#virtual env
+venv/
+env/
+.venv
+.env
